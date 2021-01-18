@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/TR07SKY/redpower-python.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-**REDPOWER** is a proof-of-work algorithm only-CPU, an variant of Redpower 1.0.1 (last), this is an Pythin implementation to be 
+**REDPOWER** is a proof-of-work algorithm only-CPU, an variant of Yespower 1.0.1 (last), this is an Python implementation to be 
 used in the ```Red Project```.
 
 ![Imgur](https://imgur.com/JQulKIL.png)
