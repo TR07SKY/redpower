@@ -48,7 +48,7 @@ static const redpower_params_t redpower_1_0_1 = {
 
 void redpower_hash(const char *input, char *output)
 {
-    redpower_tls(input, 80, &redpower, (redpower_binary_t *) output);
+    redpower_tls(input, 80, &redpower_1_0_1, (redpower_binary_t *) output);
 }
 
 static PyObject *redpower_getpowhash(PyObject *self, PyObject *args)
