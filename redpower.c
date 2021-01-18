@@ -38,7 +38,7 @@
 #include "sha256.c"
 #include "redpower-opt.c"
 
-static const redpower_params_t redpower = {
+static const redpower_params_t redpower_1_0_1 = {
     .version = YESPOWER_1_0,
     .N = 2048,
     .r = 16,
