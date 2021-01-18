@@ -17,14 +17,14 @@ used in the ```Red Project```.
 #### Building for source
 Windows with MSVC:
 ```sh
-$ git clone https://github.com/TR07SKY/redpower.python.git
+$ git clone https://github.com/TR07SKY/redpower-python.git
 $ python setup.py build --compile=msvc
 $ python setup.py install
 ```
 
 Linux with GCC:
 ```sh
-$ git clone https://github.com/TR07SKY/redpower.python.git
+$ git clone https://github.com/TR07SKY/redpower-python.git
 $ python3 setup.py build
 $ python3 setup.py install
 ```
