@@ -12,7 +12,7 @@ used in the ```Red Project```.
   - Add custimized parameters and name
   - Update from Redpower 1.0.0 to Redpower 1.0.1
   - Add compatibility between GCC and MSVC
-  - Add support for Python 2.x [NO TESTED]
+  - Add support for Python 2.x [WORKING!]
 
 #### Building for source
 Windows with MSVC:
